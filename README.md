@@ -1,6 +1,7 @@
+## NAME: SOSINA ZEMICHAEL ID: UGR/4010/16
 # crud_project2
 
-A new Flutter project.
+A new Flutter project that performs CRUD (Create, Read, Update, Delete) operations using dio and state management using Bloc.
 
 ## APP Screenshots
 
